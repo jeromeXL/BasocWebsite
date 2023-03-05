@@ -1,2 +1,2 @@
-# BasocWebsite
+# Basoc Website
 The official website for the UNSW Business Analytics Society. 
